@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1460232515 source:/home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Ant_Colony.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"Ant_Colony.h"
+
+1460090344 /home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Matrix.h
+
+1460071854 /home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/MyRand.h
+
+1460175823 /home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Ant_Colony.h
+
+1460232504 source:/home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460090327 source:/home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1460218102 source:/home/user/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460221312 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460090344 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Matrix.h
+
+1460216205 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/MyRand.h
+
+1460090327 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1460218102 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460221267 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Ant_Colony.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"Ant_Colony.h"
+
+1460175823 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Ant_Colony.h
+
+1460216362 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Bumbda.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Matrix.h"
+	"MyRand.h"
+	"Bumbda.h"
+
+1460216117 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_Colony/Bumbda.h
+
+1460313802 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/Ant_Colony.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"Ant_Colony.h"
+
+1460090344 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/Matrix.h
+
+1460071854 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/MyRand.h
+
+1460175823 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/Ant_Colony.h
+
+1460265084 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1460313678 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460313808 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonySystem/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460337720 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/Ant_Colony.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+	"Ant_Colony.h"
+
+1460090344 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/Matrix.h
+
+1460071854 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/MyRand.h
+
+1460175823 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/Ant_Colony.h
+
+1460337133 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/main.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460265084 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1460313678 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMAS/MyRand.c
+	<stdlib.h>
+	<stdio.h>
+	<omp.h>
+	"Matrix.h"
+	"MyRand.h"
+
+1460265084 source:/home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMASParallelAnts/Matrix.c
+	<stdio.h>
+	<stdlib.h>
+	"Matrix.h"
+
+1460090344 /home/jcc/Dropbox2/Dropbox/CIMAT/Paralelo/Proyecto/Ant_ColonyMMASParallelAnts/Matrix.h
+
